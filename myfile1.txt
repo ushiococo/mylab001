@@ -1,2 +1,3 @@
 this is line 1
-my second commit
+this is line 2
+this is line 3
